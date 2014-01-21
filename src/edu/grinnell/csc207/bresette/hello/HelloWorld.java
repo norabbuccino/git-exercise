@@ -7,6 +7,8 @@ public class HelloWorld
     main (String[] args)
   {
     System.out.println( "Hello there GitHub!");
+    
+    System.out.println("My name is Nora");
 
   }// main(String[])
 
